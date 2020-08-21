@@ -1,4 +1,4 @@
-```asm
+```assembly
 
 BITS 64
 
