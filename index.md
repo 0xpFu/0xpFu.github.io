@@ -16,5 +16,13 @@ Je suis actuellement en bac professionel système numérique, et je compte me di
   Php
 </li>
 <li>
-  c++
+  C++
 </li>
+
+### Mes projets
+<li>Centaurius Framework</li>
+<li>Omniscient C2</li>
+
+
+### Les Articles
+Aucun Articles pour le moment :x
