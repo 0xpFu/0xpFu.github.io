@@ -1,6 +1,6 @@
 ## Bienvenue sur mon blog :)
 
-
+<img src="https://github.com/0xpFu/0xpFu.github.io/blob/master/Charlie-Chaplin-Rob-Snow-Creative-Affiche.jpg">
 
 ### Markdown
 
