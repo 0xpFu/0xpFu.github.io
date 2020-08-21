@@ -2,8 +2,7 @@
 
 ### Qui suis-je ?
 
-Bonjour je m'appelle 0xpFu je suis développeur et je vous met à disposition ce blog sur le quel je posterais souvent des articles sur l'informatique
-<br>
+Bonjour je m'appelle 0xpFu 😎  je suis développeur et je vous met à disposition ce blog sur le quel je posterais souvent des articles sur l'informatique
 
 ### Mes Etudes ?
 
@@ -29,4 +28,4 @@ Je suis actuellement en bac professionel système numérique, et je compte me di
 </ul>
 
 ### Les Articles
-Aucun Articles pour le moment :x
+Aucun Articles pour le moment 😣
