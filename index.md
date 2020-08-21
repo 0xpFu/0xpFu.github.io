@@ -1,7 +1,6 @@
 ## Bienvenue sur mon blog :)
 
-<img src="https://github.com/0xpFu/0xpFu.github.io/blob/master/Charlie-Chaplin-Rob-Snow-Creative-Affiche.jpg">
-
+![Image](https://github.com/0xpFu/0xpFu.github.io/blob/master/Charlie-Chaplin-Rob-Snow-Creative-Affiche.jpg)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
